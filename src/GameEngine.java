@@ -70,7 +70,7 @@ public class GameEngine {
 
 }
 
-[200~public void displayBoard() {
+public void displayBoard() {
 
         System.out.println("Current Board:");
 
