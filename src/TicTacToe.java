@@ -1,9 +1,7 @@
 public class TicTacToe {
 public static void main(String[] args) {
-cat > src/TicTacToe.java << 'EOF'
-public class TicTacToe {
-public static void main(String[] args) {
-System.out.print("Welcome to TicTacToe!");
+System.out.println("Welcome to TicTacToe!");
 //TODO: Implement game logic
+//Refactor main game loop for better readability
 }
 }
