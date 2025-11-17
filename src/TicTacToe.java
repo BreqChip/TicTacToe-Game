@@ -6,3 +6,4 @@ System.out.println("Welcome to TicTacToe!");
 //"Fix array index out of bounds in win detection Corrected loop boundary conditions in the checkWinner method. Prevents crash when checking diagonal win conditions."
 }
 }
+// TODO: Add colored output for X and O
